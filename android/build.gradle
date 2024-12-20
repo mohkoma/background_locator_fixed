@@ -30,7 +30,7 @@ android {
         namespace = "yukams.app.background_locator_2"
     }
     
-    compileSdkVersion 31
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
